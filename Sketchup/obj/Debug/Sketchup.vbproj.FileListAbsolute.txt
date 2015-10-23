@@ -1,0 +1,11 @@
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\bin\Debug\Sketchup.exe.config
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\bin\Debug\Sketchup.exe
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\bin\Debug\Sketchup.pdb
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\bin\Debug\Sketchup.xml
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\obj\Debug\Sketchup.vbprojResolveAssemblyReference.cache
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\obj\Debug\Sketchup.Form1.resources
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\obj\Debug\Sketchup.Resources.resources
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\obj\Debug\Sketchup.vbproj.GenerateResource.Cache
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\obj\Debug\Sketchup.exe
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\obj\Debug\Sketchup.xml
+c:\users\p$n\documents\visual studio 2015\Projects\Sketchup\Sketchup\obj\Debug\Sketchup.pdb
